@@ -1,0 +1,24 @@
+[
+  {
+    "title": "Finish ML assignment tomorrow 3 hours",
+    "description": "Finish ML assignment tomorrow 3 hours",
+    "due_date": null,
+    "duration_minutes": 180,
+    "tags": [],
+    "priority_hint": null,
+    "id": "1f46ec17-dfea-43cc-a96c-2f36d131b90d",
+    "created_at": "2025-11-29T08:33:06.816280",
+    "status": "todo"
+  },
+  {
+    "title": "Buy groceries today 30min",
+    "description": "Buy groceries today 30min",
+    "due_date": null,
+    "duration_minutes": 30,
+    "tags": [],
+    "priority_hint": null,
+    "id": "822ab63b-e460-4686-9560-1e85e316e78b",
+    "created_at": "2025-11-29T08:33:06.836302",
+    "status": "todo"
+  }
+]

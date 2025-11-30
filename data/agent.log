@@ -1,0 +1,44 @@
+2025-11-29 13:47:13,403 INFO root: Starting AI Daily Task Agent demo
+2025-11-29 13:48:33,532 INFO root: Starting AI Daily Task Agent demo
+2025-11-29 13:49:24,176 INFO root: Starting AI Daily Task Agent demo
+2025-11-29 13:50:42,741 INFO root: Starting AI Daily Task Agent demo
+2025-11-29 13:50:42,908 INFO agents.intake_agent: Saved task id=7307fbb2-e29d-499f-918d-7988cec5b7da title=Finish ML assignment tomorrow 3 hours
+2025-11-29 13:50:42,928 INFO agents.intake_agent: Saved task id=6d887b45-7032-433d-8f11-408400179d6d title=Buy groceries today 30min
+2025-11-29 13:50:42,939 INFO agents.prioritization_agent: Prioritized 4 tasks
+2025-11-29 13:50:42,939 INFO agents.prioritization_agent: Top tasks: Buy groceries today 30min(0.18), Buy groceries today 30min(0.18), Finish ML assignment tomorrow 3 hours(0.10)
+2025-11-29 13:50:42,940 INFO agents.scheduler_agent: Schedule created for 2025-11-29: 6 scheduled, 0 unscheduled
+2025-11-29 13:50:42,940 INFO agents.scheduler_agent: First task: Buy groceries today 30min 2025-11-29T09:00:00 -> 2025-11-29T09:30:00
+2025-11-29 13:50:42,940 INFO agents.scheduler_agent: Last task: Short break 2025-11-29T16:35:00 -> 2025-11-29T16:50:00
+2025-11-29 13:54:19,217 INFO root: Starting AI Daily Task Agent demo
+2025-11-29 13:54:19,364 INFO agents.intake_agent: Saved task id=905449a2-855c-4a18-b7a2-a5d8cfea952a title=Finish ML assignment tomorrow 3 hours
+2025-11-29 13:54:19,379 INFO agents.intake_agent: Saved task id=f38ce634-1158-4c8a-9995-7ea8962ac4a3 title=Buy groceries today 30min
+2025-11-29 13:54:19,389 INFO agents.prioritization_agent: Prioritized 2 tasks
+2025-11-29 13:54:19,389 INFO agents.prioritization_agent: Top tasks: Buy groceries today 30min(0.18), Finish ML assignment tomorrow 3 hours(0.10)
+2025-11-29 13:54:19,389 INFO agents.scheduler_agent: Schedule created for 2025-11-29: 3 scheduled, 0 unscheduled
+2025-11-29 13:54:19,389 INFO agents.scheduler_agent: First task: Buy groceries today 30min 2025-11-29T09:00:00 -> 2025-11-29T09:30:00
+2025-11-29 13:54:19,389 INFO agents.scheduler_agent: Last task: Short break 2025-11-29T12:40:00 -> 2025-11-29T12:55:00
+2025-11-29 14:01:43,126 INFO root: Starting AI Daily Task Agent demo
+2025-11-29 14:03:06,657 INFO root: Starting AI Daily Task Agent demo
+2025-11-29 14:03:06,820 INFO agents.intake_agent: Saved task id=1f46ec17-dfea-43cc-a96c-2f36d131b90d title=Finish ML assignment tomorrow 3 hours
+2025-11-29 14:03:06,839 INFO agents.intake_agent: Saved task id=822ab63b-e460-4686-9560-1e85e316e78b title=Buy groceries today 30min
+2025-11-29 14:03:06,849 INFO agents.prioritization_agent: Prioritized 2 tasks
+2025-11-29 14:03:06,850 INFO agents.prioritization_agent: Top tasks: Buy groceries today 30min(0.18), Finish ML assignment tomorrow 3 hours(0.10)
+2025-11-29 14:03:06,850 INFO agents.scheduler_agent: Schedule created for 2025-11-29: 3 scheduled, 0 unscheduled
+2025-11-29 14:03:06,850 INFO agents.scheduler_agent: First task: Buy groceries today 30min 2025-11-29T09:00:00 -> 2025-11-29T09:30:00
+2025-11-29 14:03:06,850 INFO agents.scheduler_agent: Last task: Short break 2025-11-29T12:40:00 -> 2025-11-29T12:55:00
+2025-11-29 14:03:15,380 INFO root: Starting AI Daily Task Agent demo
+2025-11-29 14:03:15,505 INFO agents.intake_agent: Duplicate task detected, not saving: Finish ML assignment tomorrow 3 hours
+2025-11-29 14:03:15,505 INFO agents.intake_agent: Duplicate task detected, not saving: Buy groceries today 30min
+2025-11-29 14:03:15,506 INFO agents.prioritization_agent: Prioritized 2 tasks
+2025-11-29 14:03:15,506 INFO agents.prioritization_agent: Top tasks: Buy groceries today 30min(0.18), Finish ML assignment tomorrow 3 hours(0.10)
+2025-11-29 14:03:15,506 INFO agents.scheduler_agent: Schedule created for 2025-11-29: 3 scheduled, 0 unscheduled
+2025-11-29 14:03:15,506 INFO agents.scheduler_agent: First task: Buy groceries today 30min 2025-11-29T09:00:00 -> 2025-11-29T09:30:00
+2025-11-29 14:03:15,506 INFO agents.scheduler_agent: Last task: Short break 2025-11-29T12:40:00 -> 2025-11-29T12:55:00
+2025-11-30 12:31:46,592 INFO root: Starting AI Daily Task Agent demo
+2025-11-30 12:31:46,956 INFO agents.intake_agent: Duplicate task detected, not saving: Finish ML assignment tomorrow 3 hours
+2025-11-30 12:31:46,957 INFO agents.intake_agent: Duplicate task detected, not saving: Buy groceries today 30min
+2025-11-30 12:31:46,958 INFO agents.prioritization_agent: Prioritized 2 tasks
+2025-11-30 12:31:46,958 INFO agents.prioritization_agent: Top tasks: Buy groceries today 30min(0.18), Finish ML assignment tomorrow 3 hours(0.10)
+2025-11-30 12:31:46,959 INFO agents.scheduler_agent: Schedule created for 2025-11-30: 3 scheduled, 0 unscheduled
+2025-11-30 12:31:46,959 INFO agents.scheduler_agent: First task: Buy groceries today 30min 2025-11-30T09:00:00 -> 2025-11-30T09:30:00
+2025-11-30 12:31:46,959 INFO agents.scheduler_agent: Last task: Short break 2025-11-30T12:40:00 -> 2025-11-30T12:55:00
